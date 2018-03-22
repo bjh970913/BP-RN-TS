@@ -1,0 +1,3 @@
+rootProject.name = 'bp_rn_ts'
+
+include ':app'
